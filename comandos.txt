@@ -1,0 +1,35 @@
+python --version
+
+1. Crear ambiente virtual
+python -m venv modules
+
+2. Activar ambiente virtual
+cd modules > cd Scripts > activate
+
+3. Devolverse
+
+cd .. > cd ..
+
+4. Instalar FastAPI (Api)
+
+pip install fastapi
+
+5. Verificar si está instalado
+
+pip freeze
+
+6. Instalar servidor virtualizado de python  (Servidor)
+
+pip install uvicorn
+
+7. Instalar sql (Consultar en la DB)
+
+pip install sqlalchemy
+
+8. Instalar MySQL (Conectar base de datos)
+
+pip install mysql-connector-python
+
+9. Guardar información de lo que cree
+
+pip freeze > requirements.txt

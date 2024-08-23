@@ -1,0 +1,15 @@
+CLEAR -> Limpiar terminal
+
+Inicializar GIT
+1. Git INIT
+
+Ver los cambios del proyecto
+2. Git Status
+
+git commit -m "Asfdsfsdf"
+3. Git add .
+
+Para resetear cambios y hay que quitar el modules por cierto
+4. Git reset
+
+5. Hacer un .gitignore en la carpeta raíz dentro de ese archivo poner => "modules/"
