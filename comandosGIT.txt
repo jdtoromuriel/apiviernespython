@@ -6,10 +6,24 @@ Inicializar GIT
 Ver los cambios del proyecto
 2. Git Status
 
-git commit -m "Asfdsfsdf"
 3. Git add .
-
+4. Git commit -m "mkd560 feat Se Inicia el proyecto Y se configura la DB"
+5. Git log  >  Ver logs 
 Para resetear cambios y hay que quitar el modules por cierto
-4. Git reset
+6. Git reset
 
-5. Hacer un .gitignore en la carpeta raíz dentro de ese archivo poner => "modules/"
+7. Hacer un .gitignore en la carpeta raíz dentro de ese archivo poner => "modules/"
+
+
+
+
+///////////////////////////////////////////////////////////
+configurar usuario en CESDE en computador PUBLICO
+
+git config credential.helper ""
+
+git branch -M main
+git remote add origin https://github.com/jdtoromuriel/apiviernespython.git
+git push -u origin main
+
+
